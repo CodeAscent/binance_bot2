@@ -1,0 +1,9 @@
+python-binance==1.0.19
+websocket-client==1.6.4
+pandas==2.1.4
+numpy==1.26.3
+ta==0.11.0
+python-dotenv==1.0.0
+streamlit==1.30.0
+plotly==5.18.0
+mplfinance==0.12.10b0 
